@@ -1,4 +1,4 @@
-A public repository containing datasets and code for the paper "HateXScore: A Metric Suite for Evaluating Reasoning Quality in Hate Speech Explanations[[https://aclanthology.org/2025.emnlp-main.612.pdf](https://arxiv.org/pdf/2601.13547)]" (EACL 2026)
+A public repository containing datasets and code for the paper "HateXScore: A Metric Suite for Evaluating Reasoning Quality in Hate Speech Explanations[https://arxiv.org/pdf/2601.13547]" (EACL 2026)
 
 # HateXScore: A Metric Suite for Evaluating Reasoning Quality in Hate Speech Explanations
 
