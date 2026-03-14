@@ -206,9 +206,11 @@ result = evaluator.evaluate_sample(sample, target_group_list)
 If you use this repository in academic work, please cite the HateXScore paper.
 
 ```bibtex
-@article{hatexscore,
+@article{hu2026hatexscore,
   title={HateXScore: A Metric Suite for Evaluating Reasoning Quality in Hate Speech Explanations},
-  author={Hu, Yujia and Lee, Roy Ka-Wei}
+  author={Hu, Yujia and Lee, Roy Ka-Wei},
+  journal={arXiv preprint arXiv:2601.13547},
+  year={2026}
 }
 ```
 
